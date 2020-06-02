@@ -309,7 +309,7 @@
     <string name="ultra_power_save_title">Ultra Power Saving</string>
     <string name="ultra_power_save_summary">When screen goes off device will switch to ultra power mode</string>
 	
-    <!-- OS maintainer -->
+    <!-- os maintainer -->
     <string name="maintainer">ColtOS Device Maintainer</string>
 
 </resources>
