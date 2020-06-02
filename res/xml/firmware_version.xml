@@ -38,8 +38,8 @@
 
     <!-- Zenx version -->
     <Preference
-        android:key="zenx_version"
-        android:title="@string/zenx_version"
+        android:key="modified_version"
+        android:title="@string/modified_version"
         android:summary="@string/summary_placeholder"
         settings:enableCopying="true"
         settings:controller="com.android.settings.deviceinfo.firmwareversion.ZenxVersionPreferenceController"/>
