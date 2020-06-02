@@ -29,7 +29,7 @@ import com.android.settings.core.BasePreferenceController;
 public class ZenxVersionPreferenceController extends BasePreferenceController {
 
     @VisibleForTesting
-    static final String ZENX_VERSION_PROPERTY = "ro.zenx.version";
+    static final String MODIFIED_VERSION_PROPERTY = "ro.modified.version";
 
     public ZenxVersionPreferenceController(Context context, String preferenceKey) {
         super(context, preferenceKey);
